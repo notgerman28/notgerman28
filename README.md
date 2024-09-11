@@ -1,5 +1,5 @@
 
-<img src="https://static.wallpaperwaifu.com/videos/preview/2023/zelda-waterfall-stream-pixel-preview.mp4"/>
+<video src="https://static.wallpaperwaifu.com/videos/preview/2023/zelda-waterfall-stream-pixel-preview.mp4"></video>
 
 <!--
 **notgerman28/notgerman28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
